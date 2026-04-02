@@ -209,8 +209,7 @@ function sendSms(to, message) {
 Email: [vishalsuthar2002@outlook.com](mailto:vishalsuthar2002@outlook.com)
 GitHub: [BUGzz007](https://github.com/BUGzz007)
 
-**Sujatha Nath**
-Co-founder & Operations Lead at Vedeshi Khana
+
 
 ---
 
